@@ -30,11 +30,11 @@ TextStyle sansBoldTextStyle() {
   );
 }
 
-TextStyle pacificoTextStyle(){
-  return  TextStyle(
-                fontFamily: kPacifico,
-                fontSize: 40.0,
-                color: Colors.white,
-                fontWeight: FontWeight.bold,
-              );
+TextStyle pacificoTextStyle() {
+  return const TextStyle(
+    fontFamily: kPacifico,
+    fontSize: 40.0,
+    color: Colors.white,
+    fontWeight: FontWeight.bold,
+  );
 }

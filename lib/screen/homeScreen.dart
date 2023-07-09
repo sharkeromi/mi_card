@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:mi_card/constants/consts.dart';
 import 'package:mi_card/widgets/infoCard.dart';
 
